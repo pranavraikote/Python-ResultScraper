@@ -85,7 +85,7 @@ if usn_start < usn_end and usn_end < 400:
         try:
             
             #Generate the URL and open that using the webdriver
-            url = "https://www.vtu4u.com/result/"+usn[i]+"/sem-"+sem+"/rs-19?cbse=1"
+            url = "https://www.vtu4u.com/result/"+usn[i]+"/sem-"+sem+"/rs-22?cbse=1"
             driver.get(url)                
             time.sleep(1)
 
