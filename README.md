@@ -1,8 +1,8 @@
-# result-scraper
-Python script for scraping exam results
+# Python-ResultScraper
+Python script for scraping VTU Exam Results
 
 # About
-Code is all about scraping VTU examination results with the given parameters - Year, Branch, Sem, USN
+Code is developedd for scraping VTU examination results with the given parameters - Year, Branch, Sem, USN
 It takes the subject code also and fetches the results within the specified USN range and stores it in an excel sheet.
 The scraping involoves bs4 and selenium as it is an AJAX website.
 
